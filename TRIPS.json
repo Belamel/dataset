@@ -1,4 +1,5 @@
-[
+{
+"trips" : [
 {"route_id": "0000000000000000000c","service_id": "00000000000000000004","trip_id": "00000000000000000033","trip_headsign": "0000000000000000000o","trip_short_name": "0000000000000000000o","direction_id": "0","block_id": "00000000000000000033","shape_id": "0000000000000000000o","wheelchair_accessible": "1"},
 {"route_id": "0000000000000000000a","service_id": "00000000000000000005","trip_id": "00000000000000000037","trip_headsign": "0000000000000000000k","trip_short_name": "0000000000000000000k","direction_id": "1","block_id": "00000000000000000037","shape_id": "0000000000000000000k","wheelchair_accessible": "1"},
 {"route_id": "00000000000000000006","service_id": "00000000000000000003","trip_id": "0000000000000000001b","trip_headsign": "0000000000000000000c","trip_short_name": "0000000000000000000c","direction_id": "0","block_id": "0000000000000000001b","shape_id": "0000000000000000000c","wheelchair_accessible": "1"},
@@ -130,3 +131,4 @@
 {"route_id": "00000000000000000001","service_id": "00000000000000000001","trip_id": "00000000000000000001","trip_headsign": "0000000000000000000a","trip_short_name": "0000000000000000000j","direction_id": "0","block_id": "00000000000000000001","shape_id": "0000000000000000000o","wheelchair_accessible": "1"},
 {"route_id": "00000000000000000007","service_id": "00000000000000000002","trip_id": "0000000000000000000q","trip_headsign": "00000000000000000006","trip_short_name": "0000000000000000000m","direction_id": "1","block_id": "0000000000000000000q","shape_id": "0000000000000000000k","wheelchair_accessible": "1"}
 ]
+}
