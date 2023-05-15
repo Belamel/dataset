@@ -1,4 +1,5 @@
-[
+{
+"calandardates" : [
 {"service_id": "00000000000000000004","date": "2017-01-18","exception_type": "0"},
 {"service_id": "00000000000000000005","date": "2017-01-16","exception_type": "1"},
 {"service_id": "00000000000000000003","date": "2017-01-12","exception_type": "0"},
@@ -70,3 +71,4 @@
 {"service_id": "00000000000000000001","date": "2017-01-07","exception_type": "0"},
 {"service_id": "00000000000000000002","date": "2017-01-13","exception_type": "1"}
 ]
+}
