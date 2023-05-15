@@ -1,4 +1,5 @@
-[
+{
+"stops" : [
 {"stop_id": "000000000000000000dz","stop_code": "00000000000000000033","stop_name": "000000000000000000is","stop_desc": "000000000000000000br","stop_lat": "716","stop_lon": "676","zone_id": "","stop_url": "http://www.crtm.es","location_type": "2","parent_station": "","stop_timezone": "","wheelchair_boarding": "2"},
 {"stop_id": "000000000000000000os","stop_code": "00000000000000000037","stop_name": "000000000000000000br","stop_desc": "000000000000000000b5","stop_lat": "463","stop_lon": "423","zone_id": "","stop_url": "http://www.crtm.es","location_type": "0","parent_station": "","stop_timezone": "","wheelchair_boarding": "0"},
 {"stop_id": "00000000000000000099","stop_code": "0000000000000000001b","stop_name": "000000000000000000b5","stop_desc": "0000000000000000009c","stop_lat": "948","stop_lon": "908","zone_id": "","stop_url": "http://www.crtm.es","location_type": "1","parent_station": "","stop_timezone": "","wheelchair_boarding": "1"},
@@ -1262,3 +1263,4 @@
 {"stop_id": "00000000000000000001","stop_code": "0000000000000000005u","stop_name": "0000000000000000007h","stop_desc": "0000000000000000007m","stop_lat": "848","stop_lon": "543","zone_id": "00000000000000000004","stop_url": "http://www.crtm.es","location_type": "2","parent_station": "0000000000000000003e","stop_timezone": "00000000000000000001","wheelchair_boarding": "2"},
 {"stop_id": "0000000000000000001n","stop_code": "00000000000000000012","stop_name": "00000000000000000068","stop_desc": "0000000000000000001p","stop_lat": "868","stop_lon": "801","zone_id": "00000000000000000003","stop_url": "http://www.crtm.es","location_type": "0","parent_station": "00000000000000000041","stop_timezone": "00000000000000000001","wheelchair_boarding": "0"}
 ]
+}
