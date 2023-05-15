@@ -1,4 +1,5 @@
-[
+{
+"routes" : [
 {"route_id": "0000000000000000000c","agency_id": "00000000000000000001","route_short_name": "0000000000000000000c","route_long_name": "0000000000000000000c","route_desc": "0000000000000000000c","route_type": "1","route_url": "http://www.crtm.es/tu-transporte-publico/metro/lineas/4__9___.aspx","route_color": "0000000000000000000c","route_text_color": "00000000000000000003"},
 {"route_id": "0000000000000000000a","agency_id": "00000000000000000001","route_short_name": "0000000000000000000a","route_long_name": "0000000000000000000a","route_desc": "0000000000000000000a","route_type": "1","route_url": "http://www.crtm.es/tu-transporte-publico/metro/lineas/4__7___.aspx","route_color": "0000000000000000000a","route_text_color": "00000000000000000001"},
 {"route_id": "00000000000000000006","agency_id": "00000000000000000001","route_short_name": "00000000000000000006","route_long_name": "00000000000000000006","route_desc": "00000000000000000006","route_type": "1","route_url": "http://www.crtm.es/tu-transporte-publico/metro/lineas/4__3___.aspx","route_color": "00000000000000000006","route_text_color": "00000000000000000002"},
@@ -13,3 +14,4 @@
 {"route_id": "00000000000000000001","agency_id": "00000000000000000001","route_short_name": "00000000000000000001","route_long_name": "00000000000000000001","route_desc": "00000000000000000001","route_type": "1","route_url": "http://www.crtm.es/tu-transporte-publico/metro/lineas/4__10___.aspx","route_color": "00000000000000000001","route_text_color": "00000000000000000002"},
 {"route_id": "00000000000000000007","agency_id": "00000000000000000001","route_short_name": "00000000000000000007","route_long_name": "00000000000000000007","route_desc": "00000000000000000007","route_type": "1","route_url": "http://www.crtm.es/tu-transporte-publico/metro/lineas/4__4___.aspx","route_color": "00000000000000000007","route_text_color": "00000000000000000003"}
 ]
+}
