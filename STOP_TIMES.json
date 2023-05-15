@@ -1,4 +1,5 @@
-[
+{
+"stoptimes" :[
 {"trip_id": "00000000000000000033","arrival_time": "000000000000000000br","departure_time": "000000000000000000br","stop_id": "00000000000000000033","stop_sequence": "","stop_headsign": "000000000000000000dz","pickup_type": "0","drop_off_type": "0","shape_dist_traveled": "503"},
 {"trip_id": "00000000000000000037","arrival_time": "000000000000000000b5","departure_time": "000000000000000000b5","stop_id": "00000000000000000037","stop_sequence": "","stop_headsign": "00000000000000000124","pickup_type": "0","drop_off_type": "0","shape_dist_traveled": "1372"},
 {"trip_id": "0000000000000000001b","arrival_time": "0000000000000000009c","departure_time": "0000000000000000009c","stop_id": "0000000000000000001b","stop_sequence": "","stop_headsign": "000000000000000000os","pickup_type": "0","drop_off_type": "0","shape_dist_traveled": "892"},
@@ -2364,3 +2365,4 @@
 {"trip_id": "0000000000000000002b","arrival_time": "000000000000000000bp","departure_time": "000000000000000000bp","stop_id": "00000000000000000016","stop_sequence": "5","stop_headsign": "00000000000000000001","pickup_type": "0","drop_off_type": "0","shape_dist_traveled": "1"},
 {"trip_id": "00000000000000000019","arrival_time": "0000000000000000001m","departure_time": "0000000000000000001m","stop_id": "0000000000000000002b","stop_sequence": "29","stop_headsign": "0000000000000000001n","pickup_type": "0","drop_off_type": "0","shape_dist_traveled": "59"}
 ]
+}
