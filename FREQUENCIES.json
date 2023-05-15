@@ -1,4 +1,5 @@
-[
+{
+"frequencies" : [
 {"trip_id": "00000000000000000033","start_time": "0000000000000000000k","end_time": "0000000000000000000k","headway_secs": "192","exact_times": "0"},
 {"trip_id": "00000000000000000037","start_time": "0000000000000000000c","end_time": "0000000000000000000c","headway_secs": "190","exact_times": "0"},
 {"trip_id": "0000000000000000001b","start_time": "0000000000000000000a","end_time": "0000000000000000000a","headway_secs": "186","exact_times": "0"},
@@ -855,3 +856,4 @@
 {"trip_id": "00000000000000000004","start_time": "0000000000000000000d","end_time": "00000000000000000009","headway_secs": "181","exact_times": "0"},
 {"trip_id": "0000000000000000002w","start_time": "0000000000000000000f","end_time": "00000000000000000002","headway_secs": "187","exact_times": "0"}
 ]
+}
